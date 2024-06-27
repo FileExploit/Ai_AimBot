@@ -1,0 +1,2 @@
+python AimLock.py
+pause
